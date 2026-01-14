@@ -1,5 +1,5 @@
 # use a lightweight node.js image
-FROM node:25.2.0-alpine
+FROM node:25.2.1-alpine
 
 # set working directory
 WORKDIR /app   
